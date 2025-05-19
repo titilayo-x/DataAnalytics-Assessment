@@ -1,5 +1,5 @@
 # DataAnalytics-Assessment
-Hello, please see my submission for the Data Analyst role
+Hello, please see my submission for the Data Analyst role assessment.
 
 **Question 1**
 The goal is to identify customers with both funded savings and investment accounts alongside their total deposits
